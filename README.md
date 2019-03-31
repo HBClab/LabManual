@@ -198,6 +198,33 @@ important for novices)
 excellent collection of tutorials/resources to learn all things programming as they
 relate to neuroimaging
 
+### General R Resources
+
+- [coursera: R-Programming](https://www.coursera.org/learn/r-programming)
+- [coursera: R-programming environment](https://www.coursera.org/learn/r-programming-environment)
+- [R for psychological Science](https://psyr.org/index.html)
+- [Tidynomicon: Understanding R from a python perspective](https://gvwilson.github.io/tidynomicon/)
+- [R for datascience](https://r4ds.had.co.nz/index.html)
+- [Advanced R](http://adv-r.had.co.nz/)
+
+### General Python Resources
+
+- [Corey Schafer Python Tutorials](https://www.youtube.com/user/schafer5/playlists)
+- [RealPython Website](https://realpython.com/)
+- [Learn Python Wiki](https://www.reddit.com/r/learnpython/wiki/index)
+
+### General Shell Resources
+
+- [Conquering the command line](http://conqueringthecommandline.com/book/frontmatter)
+- [Learn shell](https://www.learnshell.org/)
+- [The shell introduction I wish I had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k) by Max Antonucci
+- [The Unix shell](http://swcarpentry.github.io/shell-novice/)
+- [Andrew Jahn's Unix introduction](https://www.youtube.com/watch?v=dBDmIhSWfnM&list=PLIQIswOrUH6992C4FDDCNCIaK4R2FIOCB)
+- [Bash cheatsheet](https://devhints.io/bash)
+- [Explain shell commands](https://explainshell.com/)
+- [Check shell scripts](https://www.shellcheck.net/)
+- [Vim interactive tutorial](https://www.openvim.com/)
+
 ### Data Technology Stack
 
 Here is a list of the current technologies/software used in the lab
