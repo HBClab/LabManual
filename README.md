@@ -1,12 +1,5 @@
 # Health, Brain, Cognition Lab Manual
 
-## Inspirations
-
-- [aly lab](https://github.com/alylab/labmanual)
-- [minda lab](https://osf.io/fztua/)
-- [hbc lab wiki](https://wiki.uiowa.edu/display/hbclabwiki/Home)
-- [whitaker lab](https://github.com/WhitakerLab/Onboarding)
-
 ## Introduction
 
 This wiki is intended to be a resource base for background reading and lab protocols.
