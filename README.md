@@ -4,19 +4,19 @@
 
 This wiki is intended to be a resource base for background reading and lab protocols.
 
-### What does the lab do
+### What does the lab do?
 
-Our lab is interested in understanding how to maximize the brain’s capacity for adaptive plasticity across the lifespan. This includes examining mechanisms associated with declines in plasticity and cognitive function associated with aging, injury, or disease, and determining how we may intervene for improved quality of life. To study plasticity, we are interested in how people learn new skills and abilities, and the lifestyle factors that affect learning and retention. For example, what is the best way to learn how to play the piano? What brain processes support this learning and how do they change throughout the lifespan? Is there anything we can do to improve our ability to learn? Do they differ when we’re thirty compared to seventy? We are particularly interested in studying cognitive abilities important for successful aging, such as multi-tasking, working memory, processing speed, and explicit and implicit skill learning.
+Our lab is interested in understanding how to maximize the brain’s capacity for adaptive plasticity across the lifespan. This includes examining mechanisms associated with declines in plasticity and cognitive function associated with aging, injury, or disease, and determining how we may intervene for improved performance and quality of life. To study plasticity, we are interested in how people learn new skills and abilities, and the lifestyle factors that affect learning and retention. For example, what is the best way to learn how to play the piano? How can we improve our memory for the people we meet and new knowledge we've learned over time? What brain processes support this learning and how do they change throughout the lifespan? Is there anything we can do to improve our ability to learn and remember? Do they differ when we’re thirty compared to seventy? We are particularly interested in studying cognitive abilities important for successful aging, such as episodice memory, working memory, processing speed, task-switching, and explicit and implicit skill learning.
 
-More specifically, our research goals relate to three questions.
+More specifically, our research goals relate to __three questions__:
 
-1. Aging brain and cognition: How do the brain and cognition change across the lifespan?
+1. __Aging brain and cognition__: How do the brain and cognition change across the lifespan?
 
-2. Translation: What impact do age-related changes in the brain and cognition have on everyday function?
+2. __Translation__: What impact do age-related changes in the brain and cognition have on everyday function?
 
-3. Inform and intervene: What factors or interventions associate with or improve brain health and in turn, cognition and everyday function?
+3. __Inform and intervene__: What factors or interventions associate with or improve brain health and in turn, cognition and everyday function?
 
-To do this, we use cognitive neuroscience methods. For example, we study learning with both basic learning and memory paradigms and applied training experiences such as commercialized “brain training” programs and videogames. To understand neural mechanisms of brain plasticity and cognitive function, we use primarily magnetic resonance imaging (MRI) techniques. MRI data is collected at MRRF, which is a short 10-12 minute walk from Psychology.
+To do this, we use __cognitive neuroscience methods__. For example, we study learning with both basic learning and memory paradigms and applied training experiences such as commercialized “brain training” programs and videogames. To understand neural mechanisms of brain plasticity and cognitive function, we use primarily magnetic resonance imaging (MRI) techniques. We use MRI often because it is the only tool to look at functional brain systems throughout the whole brain at once. MRI data is collected at MRRF, which is a short 10-12 minute walk from Psychology.
 
 ### What is expected of me
 
@@ -47,37 +47,38 @@ To do this, we use cognitive neuroscience methods. For example, we study learnin
 
 | Expectations for interactions with participants |                                                                                                                                                                  Examples                                                                                                                                                                  |                                                                                 Accountability                                                                                 |
 |:-----------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Participants have a good experience**         | 1. Be early and greet with a smile, time for your "game face" <br>  2. Introduce yourself <br> 3. Empathize and be supportive <br>  4. Don't be distracting in the background of testing                                                                                                                                                                            | Feedback opportunities from participants on their experience (good and bad)                                                                                                    |
+| **Participants have a good experience**         | 1. Be early and greet with a smile <br>  2. Introduce yourself <br> 3. Empathize and be supportive <br>  4. Don't be distracting in the background of testing                                                                                                                                                                            | Feedback opportunities from participants on their experience (good and bad)                                                                                                    |
 | **Testing and training are standardized**       | 1. Follow testing protocols, document **any** deviations or questions <br>  2. Maintain consistency in instructions and feedback to participants questions                                                                                                                                                                                            | 1. document lab activities in a notebook  <br> 2. open an issue on the relevant github repository                                                                                         |
 | **Data are complete and valid**                 | 1. Complete data files are saved  <br> 2. Data are backed up on github or redcap after the session <br> 3. Participants were able to understand and complete the task under standardized conditions                                                                                                                                                          | Same as above                                                                                                                                                                  |
-| **Confidentiality**                             | 1. Do not talk about participants with their names in the lab space or with other participants <br> 2. Do no leave other participant's data files open where another participant could see <br> 3. Names should not be on data files except for the project manager's <br> 4. Be sensitive about interaction with participants while other participants are around | 1. Breaches in confidentiality could have major consequences -- IRB can audit us and this is serious <br> 2. Feedback opportunities from participants on their experience (good and bad) |
+| **Confidentiality**                             | 1. Do not talk about participants with their names in the lab space or with other participants <br> 2. Do not leave other participant's data files open where another participant could see <br> 3. Names should not be on data files except for the project manager's protected tracking sheet <br> 4. Be sensitive about interaction with participants while other participants are around | 1. Breaches in confidentiality could have major consequences -- this is serious! When in doubt, ask Michelle. <br> 2. Feedback opportunities from participants on their experience (good and bad) |
 
 #### Before Session
 
-- Be a qualified subject runner by completing subject runner training
+- Be a qualified assessment leader by completing training on how to lead the session
 - Be prepared!
   - Know what study and session you are running
   - Bring study protocol for reference
   - Have phone numbers of lab members
 - Come 15 min before session
-  - Prepare subject paperwork
+  - Prepare participant paperwork
   - Gather folder and other necessary items
 
 #### During Session
 
-- Greet subject, do your best to call them by name
+- Greet participant, do your best to refer to each participant by name
 - Introduce yourself and confirm their name and appointment type
 - Be professional, polite, respectful, and patient at all times
 - Ask for help from other lab members if you need it!
 
 #### After Session
 
-- Thank the subject for coming in
+- Thank the participant for coming in
 - Fill out the payment form and remind them a check will come shortly; they should call us if it doesn’t
 - Ask if they remember how to get out so you can help if not (they don’t take offense in my experience)
 - Put folders and session materials away
 
-### Subject Runner Training Protocol
+
+### Session Training Protocol
 
 Trainer is expected to conduct the following sessions before the trainee is qualified to run sessions independently. Trainee is required to read this protocol to understand training expectations during all training sessions. An example training log is shown below, the trainer is required to record date, Pass/Fail, and initial after each training session. Only when the trainee completes all four training sessions successfully will trainee be considered fully qualified to independently run sessions. If there are sessions that are the same between studies, trainee is considered qualified upon completing training for the session for one of the studies. If sessions are similar but not the same, trainee still must complete training, but the training session may be modified.
 
@@ -86,7 +87,7 @@ Trainer is expected to conduct the following sessions before the trainee is qual
 - Michelle
 - Lab manager
 - Graduate student or post doc overseeing the study
-- Anyone judged by the lab manager to have run a sufficient number of sessions in the study
+- Anyone judged by Michelle or the lab manager to have run a sufficient number of sessions in the study
 
 #### Session 1 - Protocol Meeting
 
@@ -137,20 +138,14 @@ As part of the lab, we want you to be both a consumer and producer of this page.
 Journal articles are the way scientists communicate their ideas and results to one another. The dissemination of hypotheses and findings in this way is fundamental to the process of progress in science because it maintains rigor (through peer-review) while also making new research publicly available to other labs that may try to replicate or extend the published studies in their own lab. Thus, the ability to read and interpret articles in the primary literature, both in terms of methods and results and the conclusions/interpretations that can be drawn, is a fundamental skill for a successful scientist. These questions are meant to help critically analyze research articles, so you can evaluate when a paper is a good contribution to the literature, i.e., it creates new knowledge.
 
 ### Reading topic areas
-
-#### Science
-
-#### Statistics
-
-#### Brain basics
-
-#### Brain imaging with MRI/fMRI
-
-#### Aging Brain and Cognition
-
-#### Physical activity effects on the brain and cognition
-
-#### Learning systems
+* Best practices for good science
+* Statistics
+* Brain basics
+* Brain imaging with MRI/fMRI
+* Aging Brain and Cognition
+* Physical activity effects on the brain and cognition
+* Learning systems
+* See what we've been reading: [journal club] (https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
 
 ## Computers in the lab
 
