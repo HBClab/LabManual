@@ -10,7 +10,11 @@ Our lab is interested in understanding how to maximize the brain’s capacity fo
 
 More specifically, our research goals relate to __three questions__:
 
-1. __Aging brain and cognition__: How do the brain and cognition change across the lifespan?
+1. __Aging brain and cognition__: How do the brain and cognition change across the lifespan? What are the competing forces "damage" and "resilience" and how can their process and outcome be measured in testable forms in humans? The figure below from Ferrucci et al, 2018 visualizes these competing forces.
+
+![fig][key-background/Ferrucci-2018-Fig2.png]
+
+
 
 2. __Translation__: What impact do age-related changes in the brain and cognition have on everyday function?
 
