@@ -148,7 +148,7 @@ Journal articles are the way scientists communicate their ideas and results to o
 * Aging Brain and Cognition
 * Physical activity effects on the brain and cognition
 * Learning systems
-* See what we've been reading: [journal club] (https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
+* See what we've been reading: [journal club](https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
 
 ## Computers in the lab
 
