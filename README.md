@@ -1,22 +1,15 @@
 # Health, Brain, Cognition Lab Manual
 
-  * [Introduction](#introduction)
-    + [What does the lab do?](#what-does-the-lab-do-)
-    + [What is expected of me](#what-is-expected-of-me)
-    + [Session Training Protocol](#session-training-protocol)
-  * [Background Literature](#background-literature)
-  * [Computers in the lab](#computers-in-the-lab)
-    + [Data organization](#data-organization)
-  * [Coding Jumpstart](#coding-jumpstart)
-    + [General Resources](#general-resources)
-    + [General R Resources](#general-r-resources)
-    + [General Python Resources](#general-python-resources)
-    + [General Shell Resources](#general-shell-resources)
-    + [Data Technology Stack](#data-technology-stack)
-    + [Beginner Goals](#beginner-goals)
-    + [Beginner Resources](#beginner-resources)
-    + [Intermediate Goals](#intermediate-goals)
-
+- [Introduction](#introduction)
+  * [What does the lab do?](#what-does-the-lab-do-)
+  * [What is expected of me](#what-is-expected-of-me)
+  * [Session Training Protocol](#session-training-protocol)
+- [Background Literature](#background-literature)
+  * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
+  * [Reading topic areas](#reading-topic-areas)
+- [Computers in the lab](#computers-in-the-lab)
+  * [Data organization](#data-organization)
+- [Coding Jumpstart](#coding-jumpstart)
 
 ## Introduction
 
