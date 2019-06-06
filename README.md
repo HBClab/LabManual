@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
   * [What does the lab do?](#what-does-the-lab-do-)
   * [What is expected of me](#what-is-expected-of-me)
-  * [Session Training Protocol](#session-training-protocol)
+- [Session Training Protocol](#session-training-protocol)
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
   * [Reading topic areas](#reading-topic-areas)
@@ -92,11 +92,11 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
 - Put folders and session materials away
 
 
-### Session Training Protocol
+## Session Training Protocol
 
 Trainer is expected to conduct the following sessions before the trainee is qualified to run sessions independently. Trainee is required to read this protocol to understand training expectations during all training sessions. An example training log is shown below, the trainer is required to record date, Pass/Fail, and initial after each training session. Only when the trainee completes all four training sessions successfully will trainee be considered fully qualified to independently run sessions. If there are sessions that are the same between studies, trainee is considered qualified upon completing training for the session for one of the studies. If sessions are similar but not the same, trainee still must complete training, but the training session may be modified.
 
-#### Who can be a "trainer"
+### Who can be a "trainer"
 
 - Michelle
 - Lab manager
