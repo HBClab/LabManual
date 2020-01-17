@@ -9,7 +9,7 @@
   * [Reading topic areas](#reading-topic-areas)
 - [Computing in the lab](#computers-in-the-lab)
   * [Data organization](#data-organization)
-  * [General Resources](#general-resources)
+  * [Resources for skill-learning](#general-resources)
 - [Coding Jumpstart](#coding-jumpstart)
 
 ## Introduction
