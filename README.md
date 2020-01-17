@@ -172,7 +172,9 @@ Journal articles are the way scientists communicate their ideas and results to o
 ### General resources
 - [Coursera courses on probability and statistics](https://www.coursera.org/browse/data-science/probability-and-statistics): classes are free to audit! 
 - [Dr. Lesa Hoffman's courses at Iowa](http://www.lesahoffman.com/Courses.html): Materials and lectures available online within course websites
-- [JASP guides](https://jasp-stats.org/support/) and [JASP software](https://jasp-stats.org/download/): the software comes with many example datasets to see example analyses described in the tutorials. JASP is Professor Voss's recommended statistical package for analyses when you'd like to work with a graphical-user-interface (point-and-click), which is often sufficient and quicker for basic descriptive tables and plots and many basic analyses. 
+- [JASP guides](https://jasp-stats.org/support/) and [JASP software](https://jasp-stats.org/download/): The software comes with many example datasets to see example analyses described in the tutorials. 
+  * JASP is Professor Voss's recommended statistical package for analyses when you'd like to work with a graphical-user-interface (point-and-click), which is often sufficient and quicker for basic descriptive tables and plots and many basic analyses. 
+  * Note JASP is a best applied after the data has been pre-processed with documented code using R / python / bash etc, as you should avoid changing data with point-and-click software that doesn't document what you did in each step!
 
 
 ## Computing in the lab
