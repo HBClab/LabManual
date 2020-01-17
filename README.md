@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
   * [What does the lab do?](#what-does-the-lab-do-)
   * [What is expected of me](#what-is-expected-of-me)
-  * 
+    ** [Lab communication](#lab-communication)
 - [Session Training Protocol](#session-training-protocol)
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
@@ -48,7 +48,7 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
 | **Persistence** and attention to **details**: Every task is important! 	| 1. Document any confusion in protocols or instructions <br> 2. Document trouble-shooting efforts and then seek help/feedback 	| 1. Document lab activities in a notebook <br> 2. Open an issue on the relevant github repository.	|
 | Develop **scientific literacy and skills** and knowledge of the **broader impact** of our work 	| 1. Attend journal club and be engaged (read and ask questions) <br> 2. Be open and proactive in learning new skills via tutorials or research tasks <br> 3. Be proactive about suggesting topics to learn about 	| 1. Attendance and engagement <br> 2. Work towards presenting a paper or data at journal club <br> 3. Document goals, feedback, and progress and set up meetings to review in person 	|
 
-### Lab communication
+#### Lab communication
 - **Slack:** All lab members should have a Slack account. This will be primary means of communication. Install Slack on your mobile device, work desktop, and laptop, and make sure to set your time zone correctly and tocustomize the notification preferences so that you see what you need to see, but are not overwhelmed. Ask Professor Voss or a graduate student to send you and invite, and say hi on the general channel when you're in.
 - **Calendar:** All sessions are scheduled via our google calendar. 
     * Ask your project coordinator or supervising graduate student how to access this calendar. 
