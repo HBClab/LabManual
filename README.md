@@ -7,7 +7,7 @@
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
   * [Reading topic areas](#reading-topic-areas)
-- [Computers in the lab](#computers-in-the-lab)
+- [Computing in the lab](#computers-in-the-lab)
   * [Data organization](#data-organization)
   * [General Resources](#general-resources)
 - [Coding Jumpstart](#coding-jumpstart)
