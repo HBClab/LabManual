@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
   * [What does the lab do?](#what-does-the-lab-do-)
   * [What is expected of me](#what-is-expected-of-me)
+  * 
 - [Session Training Protocol](#session-training-protocol)
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
@@ -47,6 +48,16 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
 | **Persistence** and attention to **details**: Every task is important! 	| 1. Document any confusion in protocols or instructions <br> 2. Document trouble-shooting efforts and then seek help/feedback 	| 1. Document lab activities in a notebook <br> 2. Open an issue on the relevant github repository.	|
 | Develop **scientific literacy and skills** and knowledge of the **broader impact** of our work 	| 1. Attend journal club and be engaged (read and ask questions) <br> 2. Be open and proactive in learning new skills via tutorials or research tasks <br> 3. Be proactive about suggesting topics to learn about 	| 1. Attendance and engagement <br> 2. Work towards presenting a paper or data at journal club <br> 3. Document goals, feedback, and progress and set up meetings to review in person 	|
 
+### Lab communication
+- **Slack:** All lab members should have a Slack account. This will be primary means of communication. Install Slack on your mobile device, work desktop, and laptop, and make sure to set your time zone correctly and tocustomize the notification preferences so that you see what you need to see, but are not overwhelmed. Ask Professor Voss or a graduate student to send you and invite, and say hi on the general channel when you're in.
+- **Calendar:** All sessions are scheduled via our google calendar. 
+    * Ask your project coordinator or supervising graduate student how to access this calendar. 
+    * The calendar of scheduled sessions and who is running them is also circulated via a weekly email update.
+- **Scheduling meetings with Professor Voss:** Professor Voss is always happy to chat! Please be respectful of the time, you are expected to show up to scheduled meetings. Canceling is fine but please give advance notice. 
+    * Use this [link](https://calendly.com/mwvoss) to see open times and sign up for an appointment. It is always preferred to indicate your goal for the meeting in the appointment request. Please note, we do not always have to go the whole time, if we have accomplished our goals early, it's ok to end early! 
+- **Email:** University email is often used for communication with collabortors and any correspondance that would be best to have official documentation of. All communication with participants occurs through our lab email (pbs-hbclab@uiowa.edu).
+
+
 #### Data scoring, entry, and processing Conduct
 
 - Respect that you are working on hard-earned, confidential data
@@ -69,6 +80,9 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
 | **Testing and training are standardized**       | 1. Follow testing protocols, document **any** deviations or questions <br>  2. Maintain consistency in instructions and feedback to participants questions                                                                                                                                                                                            | 1. Document lab activities in a notebook  <br> 2. Open an issue on the relevant github repository                                                                                         |
 | **Data are complete and valid**                 | 1. Complete data files are saved  <br> 2. Data are backed up on github or redcap after the session <br> 3. Participants were able to understand and complete the task under standardized conditions                                                                                                                                                          | 1. Ask your project coordinator how to view the data quality reports for the tasks you've run <br> | 2. Be respectful and open to improvement when receiving "coaching" from labmates.                                                                                                                                                                  |
 | **Confidentiality**                             | 1. Do not talk about participants with their names in the lab space or with other participants <br> 2. Do not leave other participant's data files open where another participant could see <br> 3. Names should not be on data files except for the project manager's protected tracking sheet <br> 4. If you are the last one to leave the lab and materials are out with identifying information, ensure it's in a locked location before you leave. <br> 5. Be sensitive about interaction with participants while other participants are around | 1. Breaches in confidentiality could have major consequences -- this is serious! When in doubt, ask Professor Voss. <br> 2. Feedback opportunities from participants on their experience (good and where to improve) |
+
+
+
 
 #### Before Session
 
