@@ -152,14 +152,11 @@ As part of the lab, we want you to be both a consumer and producer of this page.
 Journal articles are the way scientists communicate their ideas and results to one another. The dissemination of hypotheses and findings in this way is fundamental to the process of progress in science because it maintains rigor (through peer-review) while also making new research publicly available to other labs that may try to replicate or extend the published studies in their own lab. Thus, the ability to read and interpret articles in the primary literature, both in terms of methods and results and the conclusions/interpretations that can be drawn, is a fundamental skill for a successful scientist. These questions are meant to help critically analyze research articles, so you can evaluate when a paper is a good contribution to the literature, i.e., it creates new knowledge.
 
 ### Reading topic areas
-* Best practices for good science 
+* Best practices and methods for good science 
     * Recommended journal: [Advances in Methods and Practices in Psychological Science (AMPPS)](https://www.psychologicalscience.org/publications/ampps)
-* Statistics
-* Brain basics
 * Brain imaging with MRI/fMRI
 * Aging Brain and Cognition
 * Physical activity effects on the brain and cognition
-* Learning systems
 * See what we've been reading: [journal club](https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
 
 ## Computers in the lab
