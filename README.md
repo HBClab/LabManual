@@ -7,6 +7,7 @@
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
   * [Reading topic areas](#reading-topic-areas)
+- [Journal club](journal-club)
 - [Statistics](#statistics)
   * [General resources](#general-resources)
 - [Computing in the lab](#computers-in-the-lab)
@@ -164,7 +165,13 @@ Journal articles are the way scientists communicate their ideas and results to o
     * Recommended journals: [Psychology and Aging](https://www.apa.org/pubs/journals/pag/), [Neurobiology of Aging](https://www.journals.elsevier.com/neurobiology-of-aging), [The Journals of Gerontology](https://academic.oup.com/biomedgerontology)
 * Physical activity and its effects on the brain and cognition
     * Recommended journals: [Geroscience](https://www.springer.com/journal/11357), [Brain Plasticity](https://www.iospress.nl/journal/brain-plasticity/), [Medicine and Science in Sports and Exercise](http://www.acsm.org/read-research/journals-bulletins/medicine-science-in-sports-exercise)
-* See what we've been reading: [journal club](https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
+
+### Journal club: 
+* [Live schedule for journal club](https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
+* **General overview:** 
+  * **Purpose**: Time to come together to hear what lab-mates are up to, get feedback on your work, learn from other's in the lab, practice evaluating primary literature, get oriented to new tools or professional development topics of general interest 
+  * **Who should come?** Everyone is welcome! Journal club is required for full-time post-docs and graduate students, including rotation students. Staff, affiliated students, and undergraduates are expected to come when topics align with their interests and/or projects they're working on. 
+  * **When & where** Monday's from 3:45-5pm in Rm 369 PBSB, the schedule above is regularly kept up-to-date so it's the best resource for updates on topics and related readings or links.
 
 
 ## Statistics  
