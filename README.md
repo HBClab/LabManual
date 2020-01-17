@@ -50,7 +50,7 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
   - The participants worked hard to participate in our studies
   - Take care in scoring and entering data with precision, all the hard work of your lab-mates and participants goes to waste if we don’t enter the data properly!
   - Don’t hesitate to ask a question if you’re unsure how to code or proceed with something
-    - If no one is around, email Michelle, the lab manager, or the coordinating graduate student or post-doc
+    - If no one is around, email Professor Voss, the lab manager, or the coordinating graduate student or post-doc
     - If no one can answer your question, we’ll discuss it as a group at a lab meeting and try to come up with a good solution
 - Don’t leave data folders with confidential information sitting out unattended
 - If the data sheet you’re working on is shared among several lab mates, always save and close the data sheet when you’re done
@@ -98,10 +98,10 @@ Trainer is expected to conduct the following sessions before the trainee is qual
 
 ### Who can be a "trainer"
 
-- Michelle
+- Professor Voss
 - Lab manager
 - Graduate student or post doc overseeing the study
-- Anyone judged by Michelle or the lab manager to have run a sufficient number of sessions in the study
+- Anyone judged by Professor Voss or the lab manager to have run a sufficient number of sessions in the study
 
 #### Session 1 - Protocol Meeting
 
@@ -135,17 +135,17 @@ Trainer is expected to conduct the following sessions before the trainee is qual
 
 Below is a list of topics separated and outlined by topic. Some are general interest topics and others relate specifically to the methods and research questions relevant to our lab.
 
-As part of the lab, we want you to be both a consumer and producer of this page. To consume and get the most out of your reading, please read the reading questions and consider these for each review or primary article that you read. It's expected that you'll run into questions, so don't be shy to contact someone in the lab to discuss your answers to reading questions. This includes other undergraduates in the lab, the graduate student or staff you work with most, and Michelle. To produce and generate new information on these pages, you should:
+As part of the lab, we want you to be both a consumer and producer of this page. To consume and get the most out of your reading, please read the reading questions and consider these for each review or primary article that you read. It's expected that you'll run into questions, so don't be shy to contact someone in the lab to discuss your answers to reading questions. This includes other undergraduates in the lab, the graduate student or staff you work with most, and Professor Voss. To produce and generate new information on these pages, you should:
 
-(1) Consult with a graduate student or Michelle to find out about which topic(s) are priority
+(1) Consult with a graduate student or Professor Voss to find out about which topic(s) are priority
 
 (2) Search for new papers; we often use PubMed or Google Scholar (see here if you're not sure how to do this)
 
 (3) Pick a set of 1-2 papers to read that may be relevant to your search topic; answer reading questions as you read each, and document answers on the reading response form (which you can download below). Note you may have to skim more papers than you actually read in depth. I would suggest once you find a promising abstract, to skim to make sure it's relevant.
 
-(4) Make an appointment to discuss the articles with the graduate student you're working with or Michelle (whoever you first consulted with). Facilitate discussion by sending PDFs of the articles and your responses, as this will be a guide for discussion. 
+(4) Make an appointment to discuss the articles with the graduate student you're working with or Professor Voss (whoever you first consulted with). Facilitate discussion by sending PDFs of the articles and your responses, as this will be a guide for discussion. 
 
-(5) Once we're ready to add an article, email a PDF of the article(s) to Michelle, along with the final (electronic) copy of the reading response form(s). Michelle will update the wiki.
+(5) Once we're ready to add an article, email a PDF of the article(s) to Professor Voss, along with the final (electronic) copy of the reading response form(s). Professor Voss will update the wiki.
 
 #### Reading questions
 
@@ -180,7 +180,7 @@ that is described in detail by the link.
 
 We are excited that you want to pick up the basics for learning to code and help out
 with some of the more technical aspects of data collection and analysis.
-Persistance is key, but Michelle and the graduate students will be here to help you along your journey.
+Persistance is key, but Professor Voss and the graduate students will be here to help you along your journey.
 If you are a graduate student, then more senior graduate students will help.
 What I will outline below are some soft suggestions of what to learn about;
 everyone may have different resources that "click" for them, so stick to what helps you.
