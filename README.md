@@ -7,7 +7,7 @@
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
   * [Reading topic areas](#reading-topic-areas)
-- [Journal club](journal-club)
+  * [Journal club](journal-club)
 - [Statistics](#statistics)
   * [General resources](#general-resources)
 - [Computing in the lab](#computers-in-the-lab)
