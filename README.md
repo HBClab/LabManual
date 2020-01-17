@@ -153,10 +153,13 @@ Journal articles are the way scientists communicate their ideas and results to o
 
 ### Reading topic areas
 * Best practices and methods for good science 
-    * Recommended journal: [Advances in Methods and Practices in Psychological Science (AMPPS)](https://www.psychologicalscience.org/publications/ampps)
-* Brain imaging with MRI/fMRI
+    * Recommended journals: [Advances in Methods and Practices in Psychological Science (AMPPS)](https://www.psychologicalscience.org/publications/ampps), [Psychological Methods](https://www.apa.org/pubs/journals/met/)
+* Cognitive neuroscience concepts, methods, and applications
+    * Recommended journals: [Trends in Cognitive Sciences](https://www.cell.com/trends/cognitive-sciences/home), [Journal of Cognitive Neuroscience](https://www.mitpressjournals.org/loi/jocn), [NeuroImage](https://www.journals.elsevier.com/neuroimage), [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193), [Psychophysiology](https://onlinelibrary.wiley.com/journal/14698986)
 * Aging Brain and Cognition
-* Physical activity effects on the brain and cognition
+    * Recommended journals: [Psychology and Aging](https://www.apa.org/pubs/journals/pag/), [Neurobiology of Aging](https://www.journals.elsevier.com/neurobiology-of-aging), [The Journals of Gerontology](https://academic.oup.com/biomedgerontology)
+* Physical activity and its effects on the brain and cognition
+    * Recommended journals: [Geroscience](https://www.springer.com/journal/11357), [Brain Plasticity](https://www.iospress.nl/journal/brain-plasticity/), [Medicine and Science in Sports and Exercise](http://www.acsm.org/read-research/journals-bulletins/medicine-science-in-sports-exercise)
 * See what we've been reading: [journal club](https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
 
 ## Computers in the lab
