@@ -7,6 +7,8 @@
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
   * [Reading topic areas](#reading-topic-areas)
+- [Statistics](#statistics)
+  * [General resources](#general-resources)
 - [Computing in the lab](#computers-in-the-lab)
   * [Data organization](#data-organization)
   * [Resources for skill-learning](#general-resources)
