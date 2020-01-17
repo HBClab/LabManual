@@ -13,7 +13,7 @@
 - [Computing in the lab](#computers-in-the-lab)
   * [Data organization](#data-organization)
   * [Resources for skill-learning](#general-resources)
-- [Coding Jumpstart](#coding-jumpstart)
+  * [Coding Jumpstart](#coding-jumpstart)
 
 ## Introduction
 
