@@ -58,7 +58,9 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
     * The calendar of scheduled sessions and who is running them is also circulated via a weekly email update.
 - **Scheduling meetings with Professor Voss:** Professor Voss is always happy to chat! Please be respectful of the time, you are expected to show up to scheduled meetings. Canceling is fine but please give advance notice. 
     * Use this [link](https://calendly.com/mwvoss) to see open times and sign up for an appointment. It is always preferred to indicate your goal for the meeting in the appointment request. Please note, we do not always have to go the whole time, if we have accomplished our goals early, it's ok to end early! 
-- **Email:** University email is often used for communication with collabortors and any correspondance that would be best to have official documentation of. All communication with participants occurs through our lab email (pbs-hbclab@uiowa.edu).
+- **Email:** 
+    * University email is often used for communication with collabortors and any correspondance that would be best to have official documentation of. If you're unsure, just reach out via slack and it's always an option to summarize the discussion with a follow-up email.
+    * All communication with participants occurs through our lab email (pbs-hbclab@uiowa.edu).
 
 
 #### Data scoring, entry, and processing Conduct
