@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
   * [What does the lab do?](#what-does-the-lab-do-)
   * [What is expected of me](#what-is-expected-of-me)
-    ** [Lab communication](#lab-communication)
+    * [Lab communication](#lab-communication)
 - [Session Training Protocol](#session-training-protocol)
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
