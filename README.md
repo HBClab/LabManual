@@ -7,7 +7,7 @@
 - [Background Literature](#background-literature)
   * [Guide to reading and contributing to literature reviews](#guide-to-reading-and-contributing-to-literature-reviews)
   * [Reading topic areas](#reading-topic-areas)
-- [Journal club](journal-club)
+- [Journal club](#journal-club)
 - [Statistics](#statistics)
   * [General resources](#general-resources)
 - [Computing in the lab](#computers-in-the-lab)
@@ -166,7 +166,7 @@ Journal articles are the way scientists communicate their ideas and results to o
 * Physical activity and its effects on the brain and cognition
     * Recommended journals: [Geroscience](https://www.springer.com/journal/11357), [Brain Plasticity](https://www.iospress.nl/journal/brain-plasticity/), [Medicine and Science in Sports and Exercise](http://www.acsm.org/read-research/journals-bulletins/medicine-science-in-sports-exercise)
 
-### Journal club: 
+## Journal club: 
 * [Live schedule for journal club](https://docs.google.com/spreadsheets/d/1CAcr187eyFtnmr0Niwi1D_aDZ346DuztRbbVDkO4vW0/edit?usp=sharing)
 * **General overview:** 
   * **Purpose**: Time to come together to hear what lab-mates are up to, get feedback on your work, learn from other's in the lab, practice evaluating primary literature, get oriented to new tools or professional development topics of general interest 
