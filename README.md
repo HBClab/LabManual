@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This wiki is intended to be a resource base for background reading and lab protocols.
+This wiki is intended to be a resource base for background reading and lab protocols. By comparison, our "public face" is through our [lab website](https://psychology.uiowa.edu/health-brain-cognition-lab) and [facebook page](https://www.facebook.com/healthbraincognitionlab/). 
 
 ### What does the lab do?
 
