@@ -18,6 +18,7 @@
   * [Data organization](#data-organization)
   * [Resources for skill-learning](#general-resources)
   * [Coding Jumpstart](#coding-jumpstart)
+- [Improve This Manual](#improve-this-manual)
 
 ## Introduction
 
@@ -399,3 +400,279 @@ Here is a list of the current technologies/software used in the lab
 - [Real Python Linting](https://realpython.com/python-code-quality/)
   - check the link for VSCode to set up a linter for your text editor
 - go through [python novice](http://swcarpentry.github.io/python-novice-inflammation/)
+
+## Improve this Manual
+
+You may have read this manual and saw a typo or wanted to add a new resource.
+THANK YOU!
+We encourage and welcome your contributions!
+
+If you have never used github before, no worries,
+we will walk you through step-by-step.
+
+### Step 1: Fork the Repository
+
+The first step is to "fork" the LabManual, which gives you your own copy
+of the LabManual that you can safely do whatever you want with without
+affecting the original LabManual.
+
+1. Click the button with the word "Fork".
+   ![forking](.imgs/step-00_fork.png)
+
+1. A screen should appear asking where to fork the repository (i.e., the LabManual).
+   Select your own github profile.
+   ![wherefork](.imgs/step-01_fork.png)
+
+1. You should now see the LabManual under your own account.
+   You can tell that your repository is a fork by looking in
+   the upper left corner of your screen.
+   There should be the tiny phrase: "forked from HBClab/LabManual"
+   ![mahfork](.imgs/step-02_fork-result.png)
+
+1. If you would like to make the edits locally on your computer,
+   instead of on github, see the [terminal instructions](#step-2-clone-the-repository-terminal).
+
+### Step 2: Create a new branch
+
+Having your own fork of the repository is nice, and it is even nicer to
+have your own branch.
+Creating a new branch lets you and your collaborators know what you are working on.
+Besides, "master" is not a very descriptive name to describe the changes you want to make.
+
+1. Click on the `Branch: master` button.
+
+   ![master](.imgs/step-03_master-branch.png)
+
+1. Name your branch something descriptive, like `add_awesome_link`.
+   Hit enter after you name your branch to create it.
+
+   ![add_awesome_link](.imgs/step-04_create-branch.png)
+
+1. You should now be on your new branch, instead of `master`, you can see
+   `add_awesome_link`
+
+   ![new_branch](.imgs/step-05_new-branch.png)
+
+### Step 3: Make your edits
+
+With forking and branching out of the way, you can start making edits.
+This is the change you wanted to make in the first place!
+
+1. Assuming you are editing`README.md`, you will want to click on that file.
+
+   ![readme](.imgs/step-06_select-readme.png)
+
+1. Now you can see the contents of `README.md`, but you cannot edit yet.
+   To edit, click on the pencil icon.
+
+   ![all_icons](.imgs/step-07_select-edit.png)
+
+   ![pencil](.imgs/step-08_specific-edit.png)
+
+1. The interface should change and look something like this:
+
+   ![new_face](.imgs/step-09_edit-mode.png)
+
+1. Make the edits/add the links!
+
+   ![new_link](.imgs/step-10_make-edit.png)
+
+### Step 4: Commit your changes
+
+Commiting your changes is like creating a savepoint that
+you can go back to at any time.
+If you've ever overwritten your work and wanted an
+easy way to go back without hitting control-z a
+billion times, git has got you covered.
+
+1. At the bottom of your screen, there should be a
+   a text box to write your commit message.
+   It is encouraged to write your commit message
+   using [imperative language](https://chris.beams.io/posts/git-commit/#imperative) (“spoken or written as if giving a command or instruction”)
+
+   ![gitit](.imgs/step-11_write-commit-message.png)
+
+1. Once satisfied with what you've written, click
+   `commit changes`
+
+### Step 5: Open a pull request
+
+With your edits saved on your fork, you would like the
+original `HBClab/LabManual` to also have those edits.
+To request those changes you will open a "Pull request".
+As in, I would like the `HBClab/LabManual` to please
+pull the changes on my branch from my fork (e.g., `jdkent/LabManual`)
+and incorporate them into the `HBClab/LabManual`
+master branch.
+That's a bit of jargon soup, but with enough repetition,
+all those words will become familiar to you!
+
+1. Right after you make your commit, you can select the
+   "Pull Request" tab.
+
+   ![pulltab](.imgs/step-12_click-pull-request-tab.png)
+
+1. If you just made the commit, there should be a greenish banner on your page.
+   Click on "Compare & pull request"
+
+   ![brucebanner](.imgs/step-13_recent-commit.png)
+
+1. You should be directed to a new page with a text box
+   to give information about your pull request.
+   First, however, we should double check, to make sure that the base repository is `HBClab/LabManual`
+   and that the base branch is `master`.
+   The base repository is the repository we want to change.
+   The "head" repository is the one we edited, specifically on the `add_awesome_link` branch.
+   If the base or head repositories are not what you want, change them now.
+
+   ![why](.imgs/step-14_pull-request-header.png)
+
+1. Next, give a title to your pull request and any
+   other additional information to give anyone else
+   reading the pull request why you made your changes.
+
+   ![moarinfo](.imgs/step-15_pull-request-write.png)
+
+1. When you are satisfied with what you've written,
+   click on "Create Pull Request"
+
+   ![create_pull](.imgs/step-16_create-pull-request.png)
+
+1. Congrats, you've opened a pull request!
+
+   ![new_pull](.imgs/step-17_result-of-pull-request.png)
+
+### Step 6: Responding to reviews
+
+To help improve the edit you are suggesting,
+someone may review your pull and request you make
+some changes.
+It's awesome that you took the time to open the pull
+request and it's awesome someone else took the time
+to review your edits, we are all trying to make
+the document better.
+Sometimes the reviewer may have some suggestions for
+your edits before they are accepted and merged.
+
+1. read the review
+
+   ![review](.imgs/step-18_review.png)
+
+1. Go back to your branch on your fork of LabManual
+   and select edit mode as you did in [step 3](#step-3-make-your-edits)
+
+   ![edit_again](.imgs/step-19_make-changes.png)
+
+1. commit the changes as you did in
+   [step 4](#step-4-commit-your-changes)
+
+   ![commit_again](.imgs/step-20_commit-for-review.png)
+
+1. There is NO NEED TO OPEN A NEW PULL REQUEST.
+   Since you've already opened a pull request, any
+   new commits are automatically added to your existing pull request.
+
+   ![see_it](.imgs/step-21_new-commit.png)
+
+### Conclusions
+
+You may repeat [step 6](#step-6-responding-to-reviews)
+multiple times, or none at all, but whichever the case,
+be proud of the work you've completed.
+
+This may appear to be a drawn out process to make a
+simple edit (and you are right to think so), but the
+steps you've learned are used to handle much more complex
+changes, so consider this an investment to be able to
+tackle that complex change you may want to make to
+another project tomorrow, next month, or next year.
+Some members of the lab use this workflow every day,
+making it important to learn for effective collaboration.
+
+Below are "advanced" instructions for making the edits on your computer instead of using the github website.
+
+### Step 2: Clone the repository (terminal)
+
+Cloning a repository gives you a local copy of the
+repository on your laptop or machine.
+
+1. From your forked repository, select the `Clone or
+   Download` button.
+
+   ![cloneit](.imgs/step-22_clone-download.png)
+
+1. The button should expand a small menu, with a url
+   and a clipboard next to it.
+   Click on the clipboard to copy the text.
+
+   ![clipit](.imgs/step-23_clone-options.png)
+   ![clipitgewd](.imgs/step-24_clipboard.png)
+
+1. Open a terminal on your local laptop/machine
+
+   ![term](.imgs/step-25_open-terminal.png)
+
+1. type `git clone` and then either `control+shift+v`
+   or `command+shift+v` whether you are using windows/linux or mac.
+   The result should look something like the following.
+
+   ![clonecommand](.imgs/step-26_git-clone-command.png)
+
+1. Hit enter, and the repository should download to
+   your computer.
+   The output should look like the following:
+
+   ![cloneout](.imgs/step-27_git-clone-command.png)
+
+1. type `cd LabManual` to change directories into the repository.
+  You are now ready to make edits.
+
+### Step 3: Make your edits (terminal)
+
+1. Type `ls` to see the contents of `LabManual`
+
+   ![contents](.imgs/step-28_cd-and-contents.png)
+
+1. create a new branch with `checkout -b add_awesome_line`
+
+   ![branchingout](.imgs/step-forgotten_make-branch.png)
+
+1. Open your favorite text editor in this directory.
+   (mine is [vscode](https://code.visualstudio.com/)).
+
+   ![codeit](.imgs/step-29_open-code.png)
+
+1. Open `README.md` to make your edits.
+
+   ![mah_edits](.imgs/step-30_add-text.png)
+
+### Step 4: Commit your changes (terminal)
+
+1. Type `git status` to see what changes are "unstaged"
+
+   ![unstaged](.imgs/step-31_git-status.png)
+
+1. Type `git add README.md` to stage the file.
+   We have not taken the snapshot yet, this just
+   prepares what items we want to take a snapshot of.
+   (like getting all your family members together for
+   a picture).
+
+1. Type `git status` again to see `README.md` in the staging area.
+
+   ![staged](.imgs/step-32_staging-area.png)
+
+1. Use `git commit -m '...'` to commit your changes.
+   Replace `...` with your actual commit message.
+
+   ![committed](.imgs/step-33_commit-changes.png)
+
+1. Finally, you can push the changes to your forked
+   repository on the new branch you have created with
+   the command: `git push origin <name of branch>`.
+   Replace `<name of branch>` with the actual name of
+   your branch.
+
+   ![push](.imgs/step-34_git-push.png)
+
+1. Now you can continue with [step 5 on github](#step-5-open-a-pull-request)
