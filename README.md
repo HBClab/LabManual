@@ -399,3 +399,6 @@ Here is a list of the current technologies/software used in the lab
 - [Real Python Linting](https://realpython.com/python-code-quality/)
   - check the link for VSCode to set up a linter for your text editor
 - go through [python novice](http://swcarpentry.github.io/python-novice-inflammation/)
+
+#### My Awesome Section
+- [My Awesome Link](https://jdkent.github.io/nyancat/)
