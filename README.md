@@ -1,7 +1,7 @@
 # Health, Brain, Cognition Lab Manual
 
 - [Introduction](#introduction)
-  * [What does the lab do?](#what-does-the-lab-do-)
+  * [What does the lab do?](#what-does-the-lab-do)
   * [What is expected of me](#what-is-expected-of-me)
     * [General conduct](#general-conduct)
     * [Lab communication](#lab-communication)
@@ -14,7 +14,7 @@
 - [Journal club](#journal-club)
 - [Statistics](#statistics)
   * [General resources](#general-resources)
-- [Computing in the lab](#computers-in-the-lab)
+- [Computing in the lab](#computing-in-the-lab)
   * [Data organization](#data-organization)
   * [Resources for skill-learning](#general-resources)
   * [Coding Jumpstart](#coding-jumpstart)
