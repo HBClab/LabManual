@@ -19,6 +19,7 @@
   * [Resources for skill-learning](#general-resources)
   * [Coding Jumpstart](#coding-jumpstart)
 - [Improve This Manual](#improve-this-manual)
+- [Add Developer to Github Organization](#add-developer-to-hbclab)
 
 ## Introduction
 
@@ -676,3 +677,24 @@ repository on your laptop or machine.
    ![push](.imgs/step-34_git-push.png)
 
 1. Now you can continue with [step 5 on github](#step-5-open-a-pull-request)
+
+## Add Developer to HBClab
+
+In order to administer travis-ci/circleci and other github applications that help with testing,
+you need to explicitly give people permission so
+they can add passwords/change workflows, and generally be
+useful to maintain our software.
+
+This was a little unclear to do so we're leaving a note in the manual on how to do this.
+
+1. Go to the [HBClab page](https://github.com/HBClab) and click on the settings tab.
+
+2. Click on GitHub Apps under "Developer Settings"
+
+   ![gh_app](.imgs/add_developer_0.png)
+
+3. Add the user you want to have access to travis/circleci/etc.
+
+   ![add_user](.imgs/add_developer_1.png)
+
+Now that person should be able to access/administer all our repository workflows in HBClab.
