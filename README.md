@@ -233,6 +233,9 @@ General workflows for acquiring/working with data in the lab.
 (Click on image to get access to useful links)
 ![behavioral_workflow](.imgs/behavioral_data_workflow.svg?raw=true)
 
+- [Some (slightly outdated) reading to understand this process](https://jdkent.github.io/2018/11/20/Setup-for-Data-QA.html)
+- [Other slides describing this process](https://slides.com/jameskent/deck)
+
 ## Coding Jumpstart
 
 We are excited that you want to pick up the basics for learning to code and help out
