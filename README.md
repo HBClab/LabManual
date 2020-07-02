@@ -230,7 +230,7 @@ General workflows for acquiring/working with data in the lab.
 
 #### Behavioral Data Workflow
 
-![behavioral_workflow](.imgs/behavioral_data_workflow.svg)
+![behavioral_workflow](.imgs/behavioral_data_workflow.svg?raw=true&sanitize=false)
 
 ## Coding Jumpstart
 
