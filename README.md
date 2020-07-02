@@ -277,18 +277,62 @@ relate to neuroimaging
 
 Here is a list of the current technologies/software used in the lab
 
-- bash
-- R
-- python
-- git
-- github (gitlab)
-- singularity
-- docker
-- circleci
-- travisci
-- linux
-- VSCode
-- Matlab (Octave): very rarely
+- [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+  - used as the glue for automation and coordinating other languages together
+- [R](https://www.r-project.org/about.html)
+  - excellent tool for data wrangling,
+    making statistical models, and making straight-forward images.
+    Basically everything you would want for data analysis.
+- [python](https://www.python.org/)
+  - second best tool for anything, so your job is to do everything,
+    python will make your life easier.
+    (everything = querying databases, downloading data, preprocessing data, visualizing data, creating reports, analyzing data, machine learning models, etc.)
+- [Matlab](https://www.mathworks.com/products/matlab.html) ([Octave](https://www.gnu.org/software/octave/)): very rarely
+  - Had it's hay-day, now is slowing being edged out by
+    the free R and python languages, if you have a choice,
+    don't learn Matlab.
+    Octave is the open source version of matlab, still not very popular among
+    the people I've collaborated with.
+- [git](https://git-scm.com/)
+  - take snapshots of your code/writing to save them
+    and collaborate with others
+- [github](https://github.com/) ([gitlab](https://research-git.uiowa.edu/users/sign_in))
+  - these are websites that can host your code/writing that you want to share
+- [singularity](https://sylabs.io/docs/)
+  - like a "virtual" computer you can run on your computer,
+    you can share this computer with other people
+    so you do not have to worry as much about the
+    eternal problem of "it works on my machine"
+    (but not on yours).
+    You can use Singularity with high performance computers (HPC)
+    on [Argon](https://wiki.uiowa.edu/display/hpcdocs/Argon+Cluster)
+- [docker](https://www.docker.com/)
+  - similar to singularity except you cannot use it on Argon
+    (but docker is still useful for [continuous integration](https://circleci.com/continuous-integration/)
+    and [development of code](https://github.com/cdr/code-server))
+- [circleci](https://circleci.com/)
+  - tests code for us to make sure it works as expected, 
+    and more generally can run any arbitrary code to
+    do cool things.
+    circleci can use the "virtual" computers made with docker,
+    so you know if the tests pass on circleci, the tests will
+    also pass when you are using docker.
+    circleci is the primary continuous integration tool we use.
+- [travisci](https://travis-ci.com/)
+  - tests code similarly to circleci, but historically was easier
+    to test code using different environments (python 3.5, 3.6, 3.7, 3.8, etc)
+- [linux](https://en.wikipedia.org/wiki/Linux)
+  - The operating system that runs all the "virtual" computers
+    made by singularity and docker.
+- [VSCode](https://code.visualstudio.com/)
+  - currently the most popular Integrated Developement Environment (IDE)
+    to write code in.
+    Has an awesome plugin for python, but VSCode works
+    for a variety of languages, so if you are going to write code
+    in multiple languages, VSCode is a great choice.
+- [Rstudio](https://rstudio.com/index2/)
+  - you use this when writing R code,
+    lots of convenient features to interactively write code.
 
 ### Beginner Goals
 
