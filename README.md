@@ -18,6 +18,7 @@
   * [Data organization](#data-organization)
   * [Computational Workflows](#computational-workflows)
     - [Behavioral Data Workflow](#behavioral-data-workflow)
+    - [XNAT Downloading Images Workflow](#xnat-downloading-images-workflow)
   * [Resources for skill-learning](#general-resources)
   * [Coding Jumpstart](#coding-jumpstart)
 - [Improve This Manual](#improve-this-manual)
@@ -235,6 +236,13 @@ General workflows for acquiring/working with data in the lab.
 
 - [Some (slightly outdated) reading to understand this process](https://jdkent.github.io/2018/11/20/Setup-for-Data-QA.html)
 - [Other slides describing this process](https://slides.com/jameskent/deck)
+
+#### XNAT Downloading Images Workflow
+
+(Click on image to get access to useful links)
+
+![xnat_workflow](.imgs/xnat_download_workflow.svg?raw=true)
+
 
 ## Coding Jumpstart
 
