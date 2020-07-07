@@ -203,11 +203,22 @@ Journal articles are the way scientists communicate their ideas and results to o
 ## Statistics  
 
 ### General resources
-- [Coursera courses on probability and statistics](https://www.coursera.org/browse/data-science/probability-and-statistics): classes are free to audit! 
-- [Dr. Lesa Hoffman's courses at Iowa](http://www.lesahoffman.com/Courses.html): Materials and lectures available online within course websites
-- [JASP guides](https://jasp-stats.org/support/) and [free JASP software](https://jasp-stats.org/download/): The software comes with many example datasets to see example analyses described in the tutorials. 
-  * JASP is Professor Voss's recommended statistical package for analyses when you'd like to work with a graphical-user-interface (point-and-click), which is often sufficient and quicker for basic descriptive tables and plots and many basic analyses. 
-  * Note JASP is a best applied after the data has been pre-processed with documented code using R / python / bash etc, as you should avoid changing data with point-and-click software that doesn't document what you did in each step!
+- Online courses and textbooks:
+   * Introductory coursera course on [better statistical questions](https://www.coursera.org/learn/improving-statistical-questions) and [better inference](https://www.coursera.org/learn/statistical-inferences/)
+   * Russ Poldrack's online book [statsthinking21](https://statsthinking21.org/) with examples in R and Python.
+   * Visualizations
+      * RPsychologist [visualizations](https://rpsychologist.com/viz)
+      * James Kent's collection of helpful [vizualizations of statistical concepts](https://github.com/jdkent/visualizeStatisticsConcepts) 
+      * Overview [diagram](https://st4.ning.com/topology/rest/1.0/file/get/2852610171?profile=original) of what statistics to use for different types of questions
+   * Linear regression and mixed models
+      * [Jeannette Mumford's video series on mixed models](https://www.youtube.com/watch?v=IGHm1XHFWMc&list=PLB2iAtgpI4YEAUiEQ1ZnfMXY-yewNzn9z)
+      * [Dr. Lesa Hoffman's courses at Iowa](http://www.lesahoffman.com/Courses.html): Materials and lectures available online within course websites
+      * Introductory coursera course on [linear regression](https://www.coursera.org/learn/regression-models) with R examples throughout.
+      * Power analysis with [linear mixed models](https://rpsychologist.com/do-you-need-multilevel-powerlmm-0-4-0)
+- Recommended statistical programs with graphical user-interfaces: 
+  * [JASP](https://jasp-stats.org/download/) is one of Professor Voss's recommended statistical package for analyses when you'd like to work with a graphical-user-interface (point-and-click), which is often sufficient and quicker for basic descriptive tables and plots and many basic analyses. They offer many [online resources](https://jasp-stats.org/support/) for learning statistics and how to use the program. This is a good "first step" away from Excel and SPSS for statistics. The software also comes with many example datasets to see example analyses described in the tutorials. 
+   * [Jamovi](https://www.jamovi.org/) is another free statistical software that offers a graphical user interface. Similar to JASP, there is a free [statistics textbook](https://www.learnstatswithjamovi.com/) for beginners to learn statistics. This is a great first step towards using R, and there are a growing number of "modules" for accessing statistical analyses and visualizations written in R and ggplot with a graphical user-interface. 
+   * Note both JASP and Jamovi are best applied after the data has been pre-processed with documented code using R / python / bash etc, as you should avoid changing data with point-and-click software that doesn't document what you did in each step!
 
 
 ## Computing in the lab
