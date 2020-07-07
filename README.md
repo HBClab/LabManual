@@ -2,6 +2,7 @@
 
 - [Introduction](#introduction)
   * [What does the lab do?](#what-does-the-lab-do)
+  * [Mentoring philosophy](#mentoring-philosophy)
   * [What is expected of me](#what-is-expected-of-me)
     * [General conduct](#general-conduct)
     * [Lab communication](#lab-communication)
@@ -44,6 +45,12 @@ More specifically, our research goals relate to __three broad questions__:
 
 
 To do this, we use __cognitive neuroscience methods__. For example, we study learning with both basic learning and memory paradigms and applied training experiences such as commercialized “brain training” programs and videogames. To understand neural mechanisms of brain plasticity and cognitive function, we use primarily magnetic resonance imaging (MRI) techniques. We use MRI often because it is the only tool to look at functional brain systems throughout the whole brain at once. MRI data is collected at [MRRF](https://medicine.uiowa.edu/mri/), which is a short 10-12 minute walk from our lab in the Psychological and Brain Sciences Building (PBSB). To help narrow in on the most useful imaging measures collected with MRI, we collaborate to examine mechanisms of cognitive and brain function using other imaging modalities (e.g., ECoG) and species.
+
+
+
+### Mentoring philosophy
+
+In teaching and mentoring my goal is to empower students to feel comfortable with uncertainty by having the skills to identify unknowns and methodically turn a puzzle into new knowledge. Just as we all approach puzzles differently, students come with diverse perspectives and skillsets, so effective teaching and mentoring requires an awareness to listen, support, and amplify voices from a diversity of backgrounds and perspectives. My hope is that through your experience in this lab you will experience how diversity can spark novel insights, solutions, and knowledge. This philosophy inspires an approach focused on personal interaction, asking questions, listening and learning from different perspectives, and building skills to learn how to learn. 
 
 
 ### What is expected of me
