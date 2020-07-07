@@ -16,10 +16,14 @@
   * [General resources](#general-resources)
 - [Computing in the lab](#computing-in-the-lab)
   * [Data organization](#data-organization)
+  * [Computational Workflows](#computational-workflows)
+    - [Behavioral Data Workflow](#behavioral-data-workflow)
+    - [XNAT Downloading Images Workflow](#xnat-downloading-images-workflow)
   * [Resources for skill-learning](#general-resources)
   * [Coding Jumpstart](#coding-jumpstart)
 - [Improve This Manual](#improve-this-manual)
 - [Add Developer to Github Organization](#add-developer-to-hbclab)
+
 
 ## Introduction
 
@@ -196,7 +200,6 @@ Journal articles are the way scientists communicate their ideas and results to o
     * Staff, affiliated students, and undergraduates are expected to come when topics align with their interests and/or projects they're working on. It is also expected that study sessions that can only happen during journal club take priority.
   * **When & where** Monday's from 3:45-5pm in Rm 369 PBSB, the schedule above is regularly kept up-to-date so it's the best resource for updates on topics and related readings or links.
 
-
 ## Statistics  
 
 ### General resources
@@ -221,6 +224,25 @@ that is described in detail by the link.
     - [3-experiment](https://github.com/HBClab/ProjectTemplateStructure/blob/master/3-experiment/README.md)
     - [4-dissemination](https://github.com/HBClab/ProjectTemplateStructure/blob/master/4-dissemination/README.md)
 - There is also a [list of readings](https://github.com/jdkent/dataEntryReadings) if you wish to understand why/how we organize our data
+
+### Computational Workflows
+
+General workflows for acquiring/working with data in the lab.
+
+#### Behavioral Data Workflow
+
+(Click on image to get access to useful links)
+![behavioral_workflow](.imgs/behavioral_data_workflow.svg?raw=true)
+
+- [Some (slightly outdated) reading to understand this process](https://jdkent.github.io/2018/11/20/Setup-for-Data-QA.html)
+- [Other slides describing this process](https://slides.com/jameskent/deck)
+
+#### XNAT Downloading Images Workflow
+
+(Click on image to get access to useful links)
+
+![xnat_workflow](.imgs/xnat_download_workflow.svg?raw=true)
+
 
 ## Coding Jumpstart
 
