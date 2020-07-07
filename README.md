@@ -48,7 +48,7 @@ To do this, we use __cognitive neuroscience methods__. For example, we study lea
 
 
 
-### Mentoring philosophy
+### Mentoring philosophy, by Professor Voss
 
 In teaching and mentoring my goal is to empower students to feel comfortable with uncertainty by having the skills to identify unknowns and methodically turn a puzzle into new knowledge. Just as we all approach puzzles differently, students come with diverse perspectives and skillsets, so effective teaching and mentoring requires an awareness to listen, support, and amplify voices from a diversity of backgrounds and perspectives. My hope is that through your experience in this lab you will experience how diversity can spark novel insights, solutions, and knowledge. This philosophy inspires an approach focused on personal interaction, asking questions, listening and learning from different perspectives, and building skills to learn how to learn. 
 
