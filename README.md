@@ -495,7 +495,7 @@ We encourage and welcome your contributions!
 If you have never used github before, no worries,
 we will walk you through step-by-step.
 
-### Step 1: Fork the Repository
+### Step 1: Fork the repository
 
 The first step is to "fork" the LabManual, which gives you your own copy
 of the LabManual that you can safely do whatever you want with without
@@ -681,8 +681,7 @@ Below are "advanced" instructions for making the edits on your computer instead 
 Cloning a repository gives you a local copy of the
 repository on your laptop or machine.
 
-1. From your forked repository, select the `Clone or
-   Download` button.
+1. From your forked repository, select the `Code` button.
 
    ![cloneit](.imgs/step-22_clone-download.png)
 
@@ -697,7 +696,7 @@ repository on your laptop or machine.
 
    ![term](.imgs/step-25_open-terminal.png)
 
-1. type `git clone` and then either `control+shift+v`
+1. Type `git clone` and then either `control+shift+v`
    or `command+shift+v` whether you are using windows/linux or mac.
    The result should look something like the following.
 
@@ -709,7 +708,7 @@ repository on your laptop or machine.
 
    ![cloneout](.imgs/step-27_git-clone-command.png)
 
-1. type `cd LabManual` to change directories into the repository.
+1. Type `cd LabManual` to change directories into the repository.
   You are now ready to make edits.
 
 ### Step 3: Make your edits (terminal)
@@ -718,7 +717,7 @@ repository on your laptop or machine.
 
    ![contents](.imgs/step-28_cd-and-contents.png)
 
-1. create a new branch with `checkout -b add_awesome_line`
+1. Create a new branch with `git checkout -b add_awesome_line`
 
    ![branchingout](.imgs/step-forgotten_make-branch.png)
 
