@@ -17,6 +17,7 @@
   * [General resources](#general-resources)
 - [Computing in the lab](#computing-in-the-lab)
   * [Automation Stations](#automation-stations)
+  * [Building Singularity Containers](#building-singularity-containers)
   * [Data organization](#data-organization)
   * [Computational Workflows](#computational-workflows)
     - [Behavioral Data Workflow](#behavioral-data-workflow)
