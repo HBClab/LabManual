@@ -16,6 +16,8 @@
 - [Statistics](#statistics)
   * [General resources](#general-resources)
 - [Computing in the lab](#computing-in-the-lab)
+  * [Automation Stations](#automation-stations)
+  * [Building Singularity Containers](#building-singularity-containers)
   * [Data organization](#data-organization)
   * [Computational Workflows](#computational-workflows)
     - [Behavioral Data Workflow](#behavioral-data-workflow)
@@ -229,6 +231,71 @@ Journal articles are the way scientists communicate their ideas and results to o
 
 
 ## Computing in the lab
+
+### Automation Stations
+
+Contact for administrator of computers: bradley-carson@uiowa.edu
+
+We have two computers (one physically in lab and one located off-site) to help with automation of tasks.
+The computer physically located in lab is only for testing and playing and should not be used for any automation.
+The computer located off-site is the computer we can rely on to run jobs automatically.
+These computers have different addresses:
+
+- computer physically in lab: `r-lnx506.psychology.uiowa.edu`
+- computer located off-site: `vosslab.psychology.uiowa.edu`
+
+To login to either of these computers, I'm assuming you are using either a Mac or linux computer
+(if you need to login using Windows, check out [PuTTY](https://www.putty.org/)).
+The general form of logging into the computers is:
+- `ssh HAWKID@COMPUTER-ADDRESS`
+
+where `HAWKID`
+is your University of Iowa hawkid, and `COMPUTER-ADDRESS` is one of the two computer addresses above.
+For example, if I wanted to log in to the computer located off-site, I would type:
+- `ssh jdkent@vosslab.psychology.uiowa.edu`.
+
+If you are unable to log in, but believe you should have access,
+contact Bradley Carson with Michelle Voss cc'd.
+
+Once logged in, if you want to modify the `crontab` or do other work, you need to switch from your username
+to the lab service account `vosslab-svc`.
+To do so, type:
+- `sudo -u vosslab-svc -i`
+
+If are unable to login as `vosslab-svc` or if the
+terminal asks you for a password, and you believe you should be able
+to, contact Bradley Carson with Michelle Voss cc'd.
+
+[James wrote an introduction to crontabs if you want a
+jumpstart](https://slides.com/jameskent/cron)
+
+### Building Singularity Containers
+
+While we use [Docker](https://www.docker.com/resources/what-container)
+to create software containers, Docker requires elevated
+privileges to run, which is not possible in a high performance
+computing (HPC) environment.
+Luckily, developers made [Singularity](https://sylabs.io/docs/)
+to circumvent the requirement for elevated privileges.
+
+We use singularity to create singularity containers that run our software in an isolated environment
+with all the software dependencies installed.
+We keep all the singularity containers we build in the 
+`<mount-location>/vosslabhpc/UniversalSoftware/SingularityContainers/`
+directory.
+To build a singularity container, we use the general form:
+- `singularity build SOFTWARE-vX.Y.Z.sif docker://SOFTWARE:vX.Y.Z`
+
+where software represents the code we want to make a container for,
+and X.Y.Z represents the version of the code we want to use.
+The `v` in the docker tag (`vX.Y.Z`) is not always there, so
+be aware what the available docker tags are in dockerhub.
+
+For example, if I wanted to build a singularity container for `xnat_downloader`, I would type:
+- `singularity build xnat_downloader-v0.2.8.sif docker://jdkent/xnat_downloader:v0.2.8`
+
+or if I wanted to build a version of `fmriprep`, I could type:
+- `singularity build fmriprep-v20.1.1.sif docker://poldracklab/fmriprep:20.1.1`
 
 ### Data organization
 
