@@ -207,7 +207,7 @@ Journal articles are the way scientists communicate their ideas and results to o
   * **Who should come?** Everyone is welcome! 
     * Full-time post-docs and graduate students, including rotation students, are expected to come to all meetings. 
     * Staff, affiliated students, and undergraduates are expected to come when topics align with their interests and/or projects they're working on. It is also expected that study sessions that can only happen during journal club take priority.
-  * **When & where** Monday's from 3:45-5pm in Rm 369 PBSB, the schedule above is regularly kept up-to-date so it's the best resource for updates on topics and related readings or links.
+  * **When & where** Monday's from 11am-12:15pm, the schedule above is regularly kept up-to-date so it's the best resource for updates on where we're meeting, topics, and related readings or links.
 
 ## Statistics  
 
